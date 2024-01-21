@@ -103,13 +103,13 @@ Jump to [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020
 邀請臺灣大學電機工程學系的張時中教授蒞臨演講，題目為『世代頻譜與網路資源之彈性共享接取』。對於5G行動寬頻網路與物聯網(IoT)的快速來臨促使行動網路的技術與應用邁入全新世代，有鑒於可用頻譜的侷限以及新興網路資源的多元樣貌，各國均積極導入靈活運用頻譜與網路資源的新規管架構與模式，來進一步促成數位匯流資訊與網路技術、系統、服務、應用和商務創新
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/actpic/20190926-1.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/actpic/20190926_1.png" width="95%">
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/actpic/20190926-1.png" width="75%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/actpic/20190926_2.png" width="75%">
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/actpic/20190926-1.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/actpic/20190926_3.png" width="95%">
 </figure>
 
 
