@@ -10,7 +10,7 @@ title: High Performance and Scientific Computing Center 台灣大學 高效能�
 email: cshih@csie.ntu.edu.tw
 description: > # this means to ignore newlines until "baseurl:"
   Website of the HPSC at National Taiwan University
-baseurl: "/hpscweb"
+baseurl: "/"
 url: "https://hpsc.ntu.edu.tw"
 
 include:
