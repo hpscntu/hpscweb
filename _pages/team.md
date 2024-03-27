@@ -74,14 +74,13 @@ permalink: /team/
 
 <!-- ## Visitors
 <div class="row">
-
 <div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
+</div> 
 </div> -->
 
-</div>
 ## Administrative Support
 <a href="mailto:yuyu1206@csie.ntu.edut.w">YuChen Hsu 許瑜珍</a> is helping us (and other groups) with administration.
