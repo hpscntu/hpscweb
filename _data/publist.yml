@@ -1,7 +1,7 @@
 - title: "A Heterogeneous Computing Framework for Accelerating Fully Homomorphic Encryption"
   image: imageaward_edited.png
   description: This framework encompasses homomorphic evaluations on multiple platforms including CPU, GPU, and FPGA, paired with a tailored task scheduling algorithm. Each platform is equipped with comprehensive FHE functionalities and employs state-of-the-art imple- mentations, allowing for standalone evaluation of FHE applications.
-  authors: Shih, Chengjhih and Hung, Shih-Hao and Chen, Chingwen and Perng, Chiyferng and Kao, Mengchao and Shih, Chi-Sheng and Kuo, Tei-Wei
+  authors: Shih, Chengjhih and Hung, Shih-Hao and Chen, Chingwen abd Perng, Chiyferng and Kao, Mengchao and Shih, Chi-Sheng and Kuo, Tei-Wei
   link:
     url: https://www.manuscriptlink.com/society/kiisc/conference/mobisec2023
     display: The 7th International Symposium on Mobile Internet Security (MobiSec) 2023
@@ -15,6 +15,36 @@
   link:
     url: https://ieeexplore.ieee.org/document/10349936
     display: IEEE Journal of Biomedical and Health Informatics 2023
-  highlight: 1
+  highlight: 
   news2: 
+
+- title: "Variational Nested Dropout"
+  image: 
+  description: 
+  authors: Yufei Cui, Yu Mao, Ziquan Liu, Qiao Li, Antoni B Chan, Xue Liu, Tei-Wei Kuo and Chun Jason Xue 
+  link:
+     url: https://ieeexplore.ieee.org/document/10049079
+     display: IEEE Transactions on Pattern Analysis and Machine Intelligence, 45, pp. 10519-10534
+  highlight: 
+  news2:
+
+- title: "ZoneLife: How to Utilize Data Lifetime Semantics to Make SSDs Smarter"
+  image: 
+  description: 
+  authors: Yun-Chih Chen, Chun-Feng Wu, Yuan-Hao Chang and Tei-Wei Kuo
+  link:
+     url: https://ieeexplore.ieee.org/document/9964402
+     display: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 42(8), pp. 2488-2499
+  highlight: 
+  news2:
+
+- title: "Exploring Synchronous Page Fault Handling"
+  image: 
+  description: 
+  authors: Yin-Chiuan Chen, Chun-Feng Wu, Yuan-Hao Chang and Tei-Wei Kuo
+  link:
+     url: https://ieeexplore.ieee.org/document/9925707
+     display: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 41(11), pp.3791-3802
+  highlight: 
+  news2:
 
