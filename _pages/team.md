@@ -83,6 +83,7 @@ permalink: /team/
 <i>{{ member.duration }}</i>
 </div>
 </div>
+{% endfor %}
 
 <!-- ## Visitors
 <div class="row">
