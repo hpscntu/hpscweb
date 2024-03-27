@@ -73,16 +73,15 @@ permalink: /team/
 {% endif %}
 
 
-## Alumni Members
-<div class="row">
-<div class="col-sm-4 clearfix">
-<h4>Alumni Members</h4>
-{% for member in site.data.alumni_members %}
-{{ member.name }}
-
-{% endfor %}
-</div> 
-</div>
+<!-- ## Alumni Members -->
+<!-- <div class="row"> -->
+<!-- <div class="col-sm-4 clearfix"> -->
+<!-- <h4>Alumni Members</h4> -->
+<!-- {% for member in site.data.alumni_members %} -->
+<!-- {{ member.name }} -->
+<!-- {% endfor %} -->
+<!-- </div>  -->
+<!-- </div> -->
 
 <!-- ## Visitors
 <div class="row">
