@@ -8,7 +8,7 @@ permalink: /aboutwebsite.html
 
 # Use this website as a template for your academic research group
 
-台灣大學 高效能與科學運算中心
+台灣大學 高效能與科學運算技術研究中心
 
 This website is powered by [Jekyll](https://jekyllrb.com) and uses some [Bootstrap](http://www.getbootstrap.com) and  [Bootswatch](http://www.bootswatch.com). We tried to make it simple yet adaptable, so that it is easy for you to re-use it for your purpose. 
 
