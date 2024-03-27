@@ -15,7 +15,7 @@
   link:
     url: https://ieeexplore.ieee.org/document/10349936
     display: IEEE Journal of Biomedical and Health Informatics 2023
-  highlight: 
+  highlight: 1
   news2: 
 
 - title: "Variational Nested Dropout"
@@ -40,11 +40,11 @@
 
 - title: "Exploring Synchronous Page Fault Handling"
   image: 
-  description: 
+  description: The advance of nonvolatile memory in storage technology has presented challenges in redefining the ways in handling the main memory and the storage. This work is motivated by the strong demands in effective handling of page faults over ultralow-latency storage devices. In particular, we propose synchronous and asynchronous prefetching strategies to satisfy process executions with different memory demands in supporting of synchronous page fault handling. An adaptive CPU scheduling strategy is also proposed to cope with the needs of processes in maintaining their working sets in the main memory. Six representative benchmarks and applications were evaluated. It was shown that our strategy can effectively save 12.33% of the total execution time and reduce 13.33% of page faults, compared to the conventional demand paging strategy with nearly no sacrificing of process fairness. 
   authors: Yin-Chiuan Chen, Chun-Feng Wu, Yuan-Hao Chang and Tei-Wei Kuo
   link:
      url: https://ieeexplore.ieee.org/document/9925707
      display: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 41(11), pp.3791-3802
-  highlight: 
+  highlight: 1
   news2:
 
