@@ -1,10 +1,11 @@
-- name: Tei-Wei Kuo 郭大維
-  photo: ktw.jpeg
-  duration: In the Allan Lab from 2018 - date
-  info: Director 主任/嵌入式系統、即時系統、神經元計算、快閃記憶體系統、作業系統、儲存系統
+- name: Ai-Chun Pang 逄愛君
+  photo: acpang.jpeg
+  info: 網際網路電話制約之設計與分析、個人通訊服務網路之設計與分析、無線網際網路語音服務
   email: 
-  number_educ: 2
-  education1: PhD, University of Texas at Austin
-  education2: BS, National Taiwan University.
-  education3:
-  education4: 
+  duration: In the HPSC Center from 2018 - 2024
+  number_educ: 3
+  education1: PhD, National Chiao-Tung University
+  education2: MS, National Chiao-Tung University
+  education3: BS, National Chiao-Tung University
+  education4:
+
