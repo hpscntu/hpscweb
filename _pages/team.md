@@ -79,12 +79,10 @@ permalink: /team/
 <h4>Alumni Members</h4>
 {% for member in site.data.alumni_members %}
 {{ member.name }}
-<i>{{ member.info }}</i>
 
 {% endfor %}
 </div> 
 </div>
-
 
 <!-- ## Visitors
 <div class="row">
