@@ -3,20 +3,20 @@
   description: This framework encompasses homomorphic evaluations on multiple platforms including CPU, GPU, and FPGA, paired with a tailored task scheduling algorithm. Each platform is equipped with comprehensive FHE functionalities and employs state-of-the-art imple- mentations, allowing for standalone evaluation of FHE applications.
   authors: Shih, Chengjhih and Hung, Shih-Hao and Chen, Chingwen abd Perng, Chiyferng and Kao, Mengchao and Shih, Chi-Sheng and Kuo, Tei-Wei
   link:
-    url: https://www.manuscriptlink.com/society/kiisc/conference/mobisec2023
-    display: The 7th International Symposium on Mobile Internet Security (MobiSec) 2023
+     url: https://www.manuscriptlink.com/society/kiisc/conference/mobisec2023
+     display: The 7th International Symposium on Mobile Internet Security (MobiSec) 2023
   highlight: 1
-  news2: 
+  news2:
 
 - title: "Pathological Gait Analysis With an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait"
   image: 2023Shih-Gait.jpeg
   description: a cloud-based platform for comprehensive gait analysis. Gait assessment is crucial in neurodegenerative diseases such as Parkinson's and multiple system atrophy, yet current techniques are neither affordable nor efficient.
   authors: Ho, Ming-Yang and Kuo, Ming-Che and Chen, Ciao-Sin and Wu, Ruey-Meei and Chuang, Ching-Chi and Shih, Chi-Sheng and Tseng, Yufeng Jane
   link:
-    url: https://ieeexplore.ieee.org/document/10349936
-    display: IEEE Journal of Biomedical and Health Informatics 2023
+     url: https://ieeexplore.ieee.org/document/10349936
+     display: IEEE Journal of Biomedical and Health Informatics 2023
   highlight: 1
-  news2: 
+  news2:
 
 - title: "Variational Nested Dropout"
   image: 
@@ -39,11 +39,351 @@
   news2:
 
 - title: "Exploring Synchronous Page Fault Handling"
-  image: 9925707.gif
-  description: The advance of nonvolatile memory in storage technology has presented challenges in redefining the ways in handling the main memory and the storage. This work is motivated by the strong demands in effective handling of page faults over ultralow-latency storage devices. In particular, we propose synchronous and asynchronous prefetching strategies to satisfy process executions with different memory demands in supporting of synchronous page fault handling. An adaptive CPU scheduling strategy is also proposed to cope with the needs of processes in maintaining their working sets in the main memory. Six representative benchmarks and applications were evaluated. It was shown that our strategy can effectively save 12.33% of the total execution time and reduce 13.33% of page faults, compared to the conventional demand paging strategy with nearly no sacrificing of process fairness. 
+  image: 
+  description: 
   authors: Yin-Chiuan Chen, Chun-Feng Wu, Yuan-Hao Chang and Tei-Wei Kuo
   link:
      url: https://ieeexplore.ieee.org/document/9925707
      display: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 41(11), pp.3791-3802
-  highlight: 1
+  highlight: 
+  news2:
+
+- title: " Rethinking the Interactivity of OS and Device Layers in Memory Management "
+  image: 
+  description: 
+  authors: Tse-Yuan Wang, Chun-Feng Wu, Che-Wei Tsao, Yuan-Hao Chang, Tei-Wei Kuo and Xue Liu
+  link:
+     url: https://dl.acm.org/doi/10.1145/3530876
+     display: ACM Transactions on Embedded Computing Systems (TECS), 21(4), pp. 1-21
+  highlight: 
+  news2:
+
+- title: " Online Rare Category Identification and Data Diversification for Edge Computing "
+  image: 
+  description: 
+  authors: Yufei Cui, Qiao Li, Tei-Wei Kuo and Chun Jason Xue
+  link:
+     url: https://ieeexplore.ieee.org/document/9440539
+     display: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 41(5), pp.1290-1301
+  highlight: 
+  news2:
+
+- title: " CIM-Based Smart Pose Detection Sensors "
+  image: 
+  description: 
+  authors: Jyun-Jhe Chou, Ting-Wei Chang, Xin-You Liu, Tsung-Yen Wu, Yu-Kai Chen , Ying-Tuan Hsu, Chih-Wei Chen, Tsung-Te Liu and Chi-Sheng Shih
+  link:
+     url: https://www.mdpi.com/1424-8220/22/9/3491
+     display: Sensors 2022, 22(9), 3491
+  highlight: 
+  news2:
+
+- title: " Accelerating data filtering for database using FPGA "
+  image: 
+  description: 
+  authors: Xuan Sun, Chun Jason Xue, Jinghuan Yu, Tei-Wei Kuo and Xue Liu
+  link:
+     url: https://dl.acm.org/doi/10.1016/j.sysarc.2020.101908
+     display: Journal of Systems Architecture, 114, pp. 101908
+  highlight: 
+  news2:
+
+- title: " Retrieval-Augmented Multiple Instance Learning "
+  image: 
+  description: 
+  authors: CUI Yufei, Ziquan Liu, CHEN Yixin, Yuchen Lu, Xinyue Yu, Xue Liu, Tei-Wei Kuo, Miguel RD Rodrigues, Chun Jason Xue and Antoni B Chan
+  link:
+     url: https://openreview.net/forum?id=scaKiAtbI3
+     display: Thirty-seventh Conference on Neural Information Processing Systems(NeurIPS) 2023
+  highlight: 
+  news2:
+
+- title: " HAPIC: A Scalable, Lightweight and Reactive Cache for Persistent-Memory-Based Index "
+  image: 
+  description: 
+  authors: Chih-Ting Lo, Yun-Chih Chen, Yuan-Hao Chang and Tei-Wei Kuo
+  link:
+     url: https://ieeexplore.ieee.org/document/10323608
+     display: IEEE/ACM International Conference on Computer Aided Design (ICCAD) 2023
+  highlight: 
+  news2:
+
+- title: " FSD: File-related Secure Deletion to Prolong the Lifetime of Solid-State Drives "
+  image: 
+  description: 
+  authors: Shih-Chun Chou, Yi-Shen Chen, Ping-Xiang Chen, Yuan-Hao Chang, Ming-Chang Yang, Tei-Wei Kuo, Yu-Fang Chen and Yu-Ming Chang
+  link:
+     url: https://ieeexplore.ieee.org/document/10254345
+     display: IEEE Nonvolatile Memory Systems and Applications Symposium (NVMSA) 2023
+  highlight: 
+  news2:
+
+- title: " Self-Supervised Multi-LiDAR Object View Generation Using Single LiDAR "
+  image: 
+  description: 
+  authors: Yi-Hung Kuo, Chi-Sheng Shih, Hsiang-Jui Lin and Shih-Hao Hung
+  link:
+     url: https://ieeexplore.ieee.org/document/10296332
+     display: 2023 IEEE 29th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)
+  highlight: 
+  news2:
+
+- title: "Deep Learning Based End-to-End Specular Reflection Removal for Medical Endoscopic Images"
+  image: 
+  description: 
+  authors: Chi-Sheng Shih, Yu-Cheng Liao and Ching-Ting Tan
+  link:
+     url: https://dl.acm.org/doi/abs/10.1145/3599957.3606226
+     display: ACM International Conference on Research in Adaptive and Convergent Systems 2023
+  highlight: 
+  news2:
+
+- title: " A digital 3D TCAM accelerator for the inference phase of Random Forest "
+  image: 
+  description: 
+  authors: Chieh-Lin Tsai, Chun-Feng Wu, Yuan-Hao Chang, Han-Wen Hu, Yung-Chun Lee, Hsiang-Pang Li and Tei-Wei Kuo
+  link:
+     url: https://ieeexplore.ieee.org/document/10247695
+     display: 2023 60th ACM/IEEE Design Automation Conference (DAC)
+  highlight: 
+  news2:
+
+- title: " APP: Enabling soft real-time execution on densely-populated hybrid memory system "
+  image: 
+  description: 
+  authors: Zheng-Wei Wu, Yun-Chih Chen, Yuan-Hao Chang and Tei-Wei Kuo
+  link:
+     url: https://ieeexplore.ieee.org/document/10247672
+     display: 2023 60th ACM/IEEE Design Automation Conference (DAC)
+  highlight: 
+  news2:
+
+- title: " SLResNet: Neural-Network-Based End-to-End Structure Light 3D Reconstruction for Endoscope "
+  image: 
+  description: 
+  authors: Chi-Sheng Shih, Yu Shian Lin, Kai Ju Cheng and Chin Kang Chang
+  link:
+     url: https://dl.acm.org/doi/abs/10.1145/3555776.3577691
+     display: ACM/SIGAPP Symposium on Applied Computing (SAC) 2023
+  highlight: 
+  news2:
+
+- title: " Bayes-MIL: a new probabilistic perspective on attention-based multiple instance learning for whole slide images "
+  image: 
+  description: 
+  authors: Yufei Cui, Ziquan Liu, Xiangyu Liu, Xue Liu, Cong Wang, Tei-Wei Kuo, Chun Jason Xue and Antoni B Chan
+  link:
+     url: https://openreview.net/forum?id=_geIwiOyUhZ
+     display: 11th International Conference on Learning Representations (ICLR) 2023
+  highlight: 
+  news2:
+
+- title: " Multi-Granularity Shadow Paging with NVM Write Optimization for Crash-Consistent Memory-Mapped I/O "
+  image: 
+  description: 
+  authors: Hongchao Du, Qiao Li, Riwei Pan, Tei-Wei Kuo and Chun Jason Xue
+  link:
+     url: https://ieeexplore.ieee.org/document/10071009
+     display: IEEE International Symposium on High-Performance Computer Architecture (HPCA) 2023
+  highlight: 
+  news2:
+
+- title: " LPAQ: Accelerating LPAQ Compression on FPGA "
+  image: 
+  description: 
+  authors: Dongdong Tang, Xuan Sun, Nan Guan, Tei-Wei Kuo and Chun Jason Xue
+  link:
+     url: https://ieeexplore.ieee.org/document/9974593
+     display: International Conference on Field-Programmable Technology (ICFPT) 2022
+  highlight: 
+  news2:
+
+- title: " Precise Augmentation and Counting of Helicobacter Pylori in Histology Image "
+  image: 
+  description: 
+  authors: Yufei Cui, Yixin Chen, Zhifeng Shuai, Fang Peng, Yanbo Lv, Luoning Zheng, Xue Liu, Antoni B Chan, Tei-Wei Kuo and Chun Jason Xue
+  link:
+     url: https://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/88.pdf
+     display: 36th Conference on Neural Information Processing Systems (NeurIPS) 2022
+  highlight: 
+  news2:
+
+- title: " Probabilistic Analysis of Network Availability "
+  image: 
+  description: 
+  authors: Yunmo Zhang, Hong Xu, Chun Jason Xue and Tei-Wei Kuo
+  link:
+     url: https://ieeexplore.ieee.org/document/9940438
+     display: IEEE 30th International Conference on Network Protocols (ICNP) 2022
+  highlight: 
+  news2:
+
+- title: " Accelerating General-Purpose Lossless Compression via Simple and Scalable Parameterization "
+  image: 
+  description: 
+  authors: Yu Mao, Yufei Cui, Tei-Wei Kuo and Chun Jason Xue
+  link:
+     url: https://dl.acm.org/doi/abs/10.1145/3503161.3548413
+     display: 30th ACM International Conference on Multimedia 2022
+  highlight: 
+  news2:
+
+- title: " ICE: An Intelligent Cognition Engine with 3D NAND-based In-Memory Computing for Vector Similarity Search Acceleration "
+  image: 
+  description: 
+  authors: Han-Wen Hu, Wei-Chen Wang, Yuan-Hao Chang, Yung-Chun Lee, Bo-Rong Lin, Huai-Mu Wang, Yen-Po Lin, Yu-Ming Huang, Chong-Ying Lee, Tzu-Hsiang Su, Chih-Chang Hsieh, Chia-Ming Hu, Yi-Ting Lai, Chung-Kuang Chen, Han-Sung Chen, Hsiang-Pang Li, Tei-Wei Kuo, Meng-Fan Chang, Keh-Chung Wang, Chun-Hsiung Hung and Chih-Yuan Lu
+  link:
+     url: https://ieeexplore.ieee.org/abstract/document/9923833
+     display: 55th IEEE/ACM International Symposium on Microarchitecture (MICRO) 2022
+  highlight: 
+  news2:
+
+- title: " Pipette: Efficient Fine-Gained Reads for SSDs "
+  image: 
+  description: 
+  authors: Shuhan Bai, Hu Wan, Yun Huang, Xuan Sun, Fei Wu, Changsheng Xie, Hung-Chih Hsieh, Tei-Wei Kuo and Chun Jason Xue
+  link:
+     url: https://ieeexplore.ieee.org/document/10124704
+     display: 59th ACM/IEEE Design Automation Conference 2022
+  highlight: 
+  news2:
+
+- title: " TRACE: A Fast Transformer-based General-Purpose Lossless Compressor "
+  image: 
+  description: 
+  authors: Yu Mao, Yufei Cui, Tei-Wei Kuo and Chun Jason Xue
+  link:
+     url: https://dl.acm.org/doi/10.1145/3485447.3511987
+     display: ACM Web Conference 2022
+  highlight: 
+  news2:
+
+- title: " RM-SSD: In-storage computing for large-scale recommendation inference "
+  image: 
+  description: 
+  authors: Xuan Sun, Hu Wan, Qiao Li, Chia-Lin Yang, Tei-Wei Kuo and Chun Jason Xue
+  link:
+     url: https://ieeexplore.ieee.org/document/9773272
+     display: IEEE International Symposium on High-Performance Computer Architecture (HPCA) 2022
+  highlight: 
+  news2:
+
+- title: " Automated Video Editing Based on Learned Styles Using LSTM-GAN "
+  image: 
+  description: 
+  authors: H.-I. Huang; C.-S. Shih; Z.-L. Yang
+  link:
+     url: https://dl.acm.org/doi/abs/10.1145/3477314.3507141
+     display: 37th ACM/SIGAPP Symposium on Applied Computing 2022
+  highlight: 
+  news2:
+
+- title: " A 512Gb in-memory-computing 3D-NAND flash supporting similar-vector-matching operations on edge-AI devices "
+  image: 
+  description: 
+  authors: Han-Wen Hu, Wei-Chen Wang, Chung-Kuang Chen, Yung-Chun Lee, Bo-Rong Lin, Huai-Mu Wang, Yen-Po Lin, Yu-Chao Lin, Chih-Chang Hsieh, Chia-Ming Hu, Yi-Ting Lai, Han-Sung Chen, Yuan-Hao Chang, Hsiang-Pang Li, Tei-Wei Kuo, Keh-Chung Wang, Meng-Fan Chang, Chun-Hsiung Hung and Chin-Yuan Lu
+  link:
+     url: https://ieeexplore.ieee.org/document/9731775
+     display: IEEE International Solid-State Circuits Conference (ISSCC) 2022
+  highlight: 
+  news2:
+
+- title: " CacheSifter: Sifting Cache Files for Boosted Mobile Performance and Lifetime "
+  image: 
+  description: 
+  authors: Yu Liang, Riwei Pan, Tianyu Ren, Yufei Cui, Rachata Ausavarungnirun, Xianzhang Chen, Changlong Li, Tei-Wei Kuo and Chun Jason Xue
+  link:
+     url: https://www.usenix.org/conference/fast22/presentation/liang
+     display: 20th USENIX Conference on File and Storage Technologies (FAST) 2022
+  highlight: 
+  news2:
+
+- title: " An Extrinsic Depth Camera Calibration Method for Narrow Field of View Color Camera "
+  image: 
+  description: 
+  authors: H.-Y. Chen and C.-S. Shih
+  link:
+     url: https://dl.acm.org/doi/10.1145/3400286.3418251
+     display: ACM 2021 International Conference on Research in Adaptive and Convergent Systems
+  highlight: 
+  news2:
+
+- title: " Deep-Learning-Based Intrusion Detection for Autonomous Vehicle-Following Systems "
+  image: 
+  description: 
+  authors: Sheng-Li Wang, Sing-Yao Wu, Ching-Chu Lin, Srivalli Boddupalli, Po-Jui Chang, Chung-Wei Lin, Chi-Sheng Shih, Sandip Ray
+  link:
+     url: https://ieeexplore.ieee.org/document/9564677
+     display: 24th IEEE International Conference on Intelligent Transportation Systems (ITSC) 2021
+  highlight: 
+  news2:
+
+- title: " Trajectory Prediction at Unsignalized Intersections using Social Conditional Generative Adversarial Network "
+  image: 
+  description: 
+  authors: Tsu-Jan Hsieh, Chi-Sheng Shih, Chung-Wei Lin, Chih-Wei Chen, Pei-Kuei Tsung
+  link:
+     url: https://ieeexplore.ieee.org/document/9564441
+     display: 24th IEEE International Conference on Intelligent Transportation Systems (ITSC) 2021
+  highlight: 
+  news2:
+
+- title: " Prediction of Human Intention in Vehicles, Pedestrians and Bicyclists Interactions "
+  image: 
+  description: 
+  authors: Tsung-Yu Chen, Hsiang-Jui Lin, Chi-Sheng Shih, Kuan-Ting Kuo, Qi Liu, Rosa H.M. Chan
+  link:
+     url: https://ieeexplore.ieee.org/document/9564915
+     display: 24th IEEE International Conference on Intelligent Transportation Systems (ITSC) 2021
+  highlight: 
+  news2:
+
+- title: " FlashEmbedding: storing embedding tables in SSD for large-scale recommender systems "
+  image: 
+  description: 
+  authors: Hu Wan, Xuan Sun, Yufei Cui, Chia-Lin Yang, Tei-Wei Kuo and Chun Jason Xue
+  link:
+     url: https://dl.acm.org/doi/10.1145/3476886.3477511
+     display: 12th ACM SIGOPS Asia-Pacific Workshop on Systems 2021
+  highlight: 
+  news2:
+
+- title: " CholecSeg8k: A Semantic Segmentation Dataset for Laparoscopic Cholecystectomy Based on Cholec80 "
+  image: 
+  description: 
+  authors: W.-Y. Hong, C.-L. Kao, Y.-H. Kuo, J.-R. Wang, W.-L. Chang, C.-S. Shih
+  link:
+     url: https://arxiv.org/abs/2012.12453
+     display: The 12th International Conference on Information Processing in Computer-Assisted Interventions 2021
+  highlight: 
+  news2:
+
+- title: " Passleaf: A pool-based semi-supervised learning framework for uncertain knowledge graph embedding"
+  image: 
+  description: 
+  authors: Zhu-Mu Chen, Mi-Yen Yeh and Tei-Wei Kuo
+  link:
+     url: https://ojs.aaai.org/index.php/AAAI/article/view/16522
+     display: The AAAI Conference on Artificial Intelligence 2021
+  highlight: 
+  news2:
+
+- title: " Pattern-Guided File Compression with User-Experience Enhancement for Log-Structured File System on Mobile Devices "
+  image: 
+  description: 
+  authors: Cheng Ji, Li-Pin Chang, Riwei Pan, Chao Wu, Congming Gao, Liang Shi, Tei-Wei Kuo and Chun Jason Xue
+  link:
+     url: https://www.usenix.org/conference/fast21/presentation/ji
+     display: 19th USENIX Conference on File and Storage Technologies (FAST) 2021
+  highlight: 
+  news2:
+
+- title: " Superpixel Tracking: Configurable Polynomial-Time Semantic Segmentation for Endoscope Video"
+  image: 
+  description: 
+  authors: W.-Y. Hong and C.-S. Shih
+  link:
+     url: 
+     display: The 12th International Conference on Information Processing in Computer-Assisted Interventions 2021
+  highlight: 
   news2:
