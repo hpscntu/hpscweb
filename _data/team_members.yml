@@ -1,16 +1,6 @@
-- name: Chi-Sheng Shih 施吉昇
-  photo: cshih.jpeg
-  info: Director 主任/即時系統、排程理論、資源管理、嵌入式系統
-  duration: In the HPSC Center from 2018 - date
-  email: 
-  number_educ: 3
-  education1: PhD, University of Illinois at Urbana-Champaign
-  education2: MS, National Cheng-Kung University
-  education3: BS, National Cheng-Kung University
-
 - name: Shih-Hao Hung 洪士灝
   photo: shhung.jpeg
-  info: Deputy Director 副主任/電腦應用與架構相互最佳化、計算機架構與平行處理、計算機效能評估與最佳化、嵌入式系統設計
+  info: Director 主任/電腦應用與架構相互最佳化、計算機架構與平行處理、計算機效能評估與最佳化、嵌入式系統設計
   duration: In the HPSC Center from 2018 - date
   email: 
   number_educ: 3
@@ -18,6 +8,17 @@
   education2: MS, The University of Michigan.
   education3: BS, National Taiwan University.
   education4: 
+
+- name: Chi-Sheng Shih 施吉昇
+  photo: cshih.jpeg
+  info: Deputy Director 副主任/即時系統、排程理論、資源管理、嵌入式系統
+  duration: In the HPSC Center from 2018 - date
+  email: 
+  number_educ: 3
+  education1: PhD, University of Illinois at Urbana-Champaign
+  education2: MS, National Cheng-Kung University
+  education3: BS, National Cheng-Kung University
+
 
 - name: Tei-Wei Kuo 郭大維
   photo: ktw.jpeg
