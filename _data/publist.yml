@@ -1,28 +1,12 @@
 - title: "Enhancing Security with Virtualization and Real-time Communications for Applications on Autonomous Vehicles"
   image: mobisec24.png
-  description: The development of software-defined, fully autonomous driving vehicles has recently become a hot topic. This advancement paves the way for service-oriented and software-centric
-approaches to in-vehicle computation. However, it also increases the hardware require-
-ment for the ever-growing software demands. As more computing hardware components
-are added, resource management and security for mixed-criticality operating environments
-become increasingly challenging, and virtualization has emerged as a promising technol-
-ogy for managing and isolating heterogeneous computing resources in vehicles. However,
-a major drawback of virtualization is performance degradation, and how application pro-
-cesses communicate efficiently with low latencies via a portable application programming
-interface (API) in a virtualized environment remains a challenge. In this work, we propose
-a framework, Zenoh Virtualization Link, or ZVLink, that integrates efficient virtualiza-
-tion with a lightweight open-source pub/sub API, Zenoh, to achieve efficient and real-time
-interprocess communications across colocated virtual machines (VMs). Experimental re-
-sults demonstrate that an unoptimized Zenoh delivers messages across VM at 14.3 MB/s,
-which is 82% of the 17.4 MB/s transfer rate measured with XenLoop, the state-of-the-art
-network optimization in Xen, while our framework delivers 333.8 MB/s, which outperform
-the unoptimized Zenoh by 23.3 times, and the XenLoop optimized Zenoh by 19.2 times.
-These findings suggest that our framework offers a viable solution for efficient and scalable
-interprocess communications in conjunction with virtualized environments to enhance the
-security and reliability of autonomous systems.
+  description: The development of software-defined, fully autonomous driving vehicles has recently become a hot topic. This advancement paves the way for service-oriented and software-centric approaches to in-vehicle computation. However, it also increases the hardware require- ment for the ever-growing software demands. As more computing hardware components are added, resource management and security for mixed-criticality operating environments become increasingly challenging, and virtualization has emerged as a promising technol- ogy for managing and isolating heterogeneous computing resources in vehicles. However, a major drawback of virtualization is performance degradation, and how application pro- cesses communicate efficiently with low latencies via a portable application programming interface (API) in a virtualized environment remains a challenge. In this work, we propose a framework, Zenoh Virtualization Link, or ZVLink, that integrates efficient virtualiza- tion with a lightweight open-source pub/sub API, Zenoh, to achieve efficient and real-time interprocess communications across colocated virtual machines (VMs).
   authors: Chang, Chih-Hao, and Shih, Chi-Sheng, and Hung, Shih-Hao
+  link:  
   url: https://www.manuscriptlink.com/society/kiisc/conference/mobisec2024
   display: The 8th International Symposium on Mobile Internet Security (MobiSec) 2024
   highlight: 1
+  news2:
   
 
 - title: "A Heterogeneous Computing Framework for Accelerating Fully Homomorphic Encryption"
