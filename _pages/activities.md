@@ -18,7 +18,7 @@ Jump to [2026](#2026), [2025](#2025), [2023](#2023), [2022](#2022), [2021](#2021
 邀請中研院、成大資工系、台大資訊系、台大電機系的專家教授們到場，針對量子計算軟體的設計方法、開發工具、應用發展等面相，提供教學與研究心得。本次活動師生共計80人參加。
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/actpic/20260130.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/actpic/20260130.jpg" width="95%">
 </figure>
 
 ## 2025
@@ -29,7 +29,7 @@ Jump to [2026](#2026), [2025](#2025), [2023](#2023), [2022](#2022), [2021](#2021
 本次活動師生共計140人參加。
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/actpic/20250115.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/actpic/20250115.jpg" width="95%">
 </figure>
 
 ## 2023 
